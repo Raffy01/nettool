@@ -1,0 +1,14 @@
+# Executables
+nettool
+
+# Object files
+*.o
+
+# Compiled headers
+*.gch
+
+# Log files
+*.log
+
+# Target list
+target.txt

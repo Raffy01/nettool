@@ -1,0 +1,4 @@
+8.8.8.8
+127.0.0.1
+wikipedia.org
+docs.oracle.com
