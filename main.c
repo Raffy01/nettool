@@ -1,6 +1,6 @@
 #include "nettool.h"
 
-// --- 전역 변수 실제 메모리 할당 ---
+// 전역 변수 실제 메모리 할당
 int current_mode = MODE_PING;
 int infinite_ping = 0; 
 int scan_tcp_connect = 1; 
