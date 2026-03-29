@@ -7,6 +7,9 @@ nettool
 # Compiled headers
 *.gch
 
+# swp Files
+*.swp
+
 # Log files
 *.log
 
