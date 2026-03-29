@@ -1,4 +1,15 @@
 # C Network Reconnaissance Utility (Nettool)
+### Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raw Sockets](https://img.shields.io/badge/Raw_Sockets-FF6C37?style=for-the-badge&logo=gnutls&logoColor=white)
+![Pthreads](https://img.shields.io/badge/POSIX_Threads-8E75B2?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Core Features
+![ICMP Ping](https://img.shields.io/badge/ICMP_Ping-04414D?style=for-the-badge&logo=wireshark&logoColor=white)
+![Traceroute](https://img.shields.io/badge/Traceroute-1F222E?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TCP/UDP Scan](https://img.shields.io/badge/TCP%2FUDP_Scan-b51829?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 This repository provides a C-based, multithreaded network scanner and reconnaissance tool. By utilizing POSIX Raw sockets to directly manipulate IP, ICMP, and TCP headers, the utility bypasses standard operating system network layers. It supports high-speed asynchronous ICMP ping sweeps, stealth TCP SYN scans, network routing trace (Traceroute), and precise Operating System (OS) fingerprinting via TTL and TCP Window Size analysis.
 
 ---
