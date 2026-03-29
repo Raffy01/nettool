@@ -14,4 +14,4 @@ nettool
 *.log
 
 # Target list
-target.txt
+targets.txt
