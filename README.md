@@ -10,7 +10,7 @@
 ![Traceroute](https://img.shields.io/badge/Traceroute-1F222E?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TCP/UDP Scan](https://img.shields.io/badge/TCP%2FUDP_Scan-b51829?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-This repository provides a C-based, multithreaded network scanner and reconnaissance tool. By utilizing POSIX Raw sockets to directly manipulate IP, ICMP, and TCP headers, the utility bypasses standard operating system network layers. It supports high-speed asynchronous ICMP ping sweeps, stealth TCP SYN scans, network routing trace (Traceroute), and precise Operating System (OS) fingerprinting via TTL and TCP Window Size analysis.
+This repository provides a C-based, multithreaded network scanner and reconnaissance tool. By utilizing POSIX Raw sockets to directly manipulate IP, ICMP, and TCP headers, the utility bypasses standard operating system network layers. It supports high-speed asynchronous ICMP ping sweeps, stealth TCP SYN scans, network routing trace (Traceroute), and Operating System (OS) fingerprinting via TTL and TCP Window Size analysis.
 
 ---
 
